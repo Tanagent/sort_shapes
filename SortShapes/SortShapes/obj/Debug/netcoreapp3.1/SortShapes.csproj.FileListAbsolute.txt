@@ -1,0 +1,13 @@
+C:\Users\brian\Workspace\MCG Coding Problem\SortShapes\SortShapes\bin\Debug\netcoreapp3.1\SortShapes.exe
+C:\Users\brian\Workspace\MCG Coding Problem\SortShapes\SortShapes\bin\Debug\netcoreapp3.1\SortShapes.deps.json
+C:\Users\brian\Workspace\MCG Coding Problem\SortShapes\SortShapes\bin\Debug\netcoreapp3.1\SortShapes.runtimeconfig.json
+C:\Users\brian\Workspace\MCG Coding Problem\SortShapes\SortShapes\bin\Debug\netcoreapp3.1\SortShapes.runtimeconfig.dev.json
+C:\Users\brian\Workspace\MCG Coding Problem\SortShapes\SortShapes\bin\Debug\netcoreapp3.1\SortShapes.dll
+C:\Users\brian\Workspace\MCG Coding Problem\SortShapes\SortShapes\bin\Debug\netcoreapp3.1\SortShapes.pdb
+C:\Users\brian\Workspace\MCG Coding Problem\SortShapes\SortShapes\obj\Debug\netcoreapp3.1\SortShapes.csprojAssemblyReference.cache
+C:\Users\brian\Workspace\MCG Coding Problem\SortShapes\SortShapes\obj\Debug\netcoreapp3.1\SortShapes.AssemblyInfoInputs.cache
+C:\Users\brian\Workspace\MCG Coding Problem\SortShapes\SortShapes\obj\Debug\netcoreapp3.1\SortShapes.AssemblyInfo.cs
+C:\Users\brian\Workspace\MCG Coding Problem\SortShapes\SortShapes\obj\Debug\netcoreapp3.1\SortShapes.csproj.CoreCompileInputs.cache
+C:\Users\brian\Workspace\MCG Coding Problem\SortShapes\SortShapes\obj\Debug\netcoreapp3.1\SortShapes.dll
+C:\Users\brian\Workspace\MCG Coding Problem\SortShapes\SortShapes\obj\Debug\netcoreapp3.1\SortShapes.pdb
+C:\Users\brian\Workspace\MCG Coding Problem\SortShapes\SortShapes\obj\Debug\netcoreapp3.1\SortShapes.genruntimeconfig.cache
